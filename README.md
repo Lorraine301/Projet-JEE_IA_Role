@@ -196,7 +196,7 @@ JSON → FastAPI → Modèles .pkl → Réponse JSON
 
 Outils : **Swagger UI** sur http://127.0.0.1:8000/docs
 
-![Endpoints](Images/EndPointa.png)
+![Endpoints](Images/Endpoints.png)
 
 
 ### Exemples d’API
